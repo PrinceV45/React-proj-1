@@ -9,6 +9,7 @@ export default function Navbar() {
             <span className="block h-1 bg-brandBlue rounded w-1/2"></span>
             <span className="block h-1 bg-brandBlue rounded w-1/3"></span>
           </div>
+          <img src="/icons-45/logo.png" alt="Interval Weight Loss" className="w-5" />
           <span className="text-lg font-medium text-brandBlue">Interval Weight Loss</span>
         </div>
 
